@@ -1,2 +1,2 @@
-# Pós Inteligência Artificial
+# Pós graduação em Inteligência Artificial
 ## Exercícios feitos
