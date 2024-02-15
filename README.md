@@ -1,1 +1,2 @@
-# pos_inteligencia_artificial
+# Pós Inteligência Artificial
+## Exercícios feitos
