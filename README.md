@@ -1,2 +1,4 @@
 # Pós graduação em Inteligência Artificial
-## Exercícios feitos
+### 🧠 Conhecimentos adquiridos
+- Redes neurais
+- Sistemas especialistas
